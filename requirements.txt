@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+
+geopy==2.3.0
+
+apscheduler==3.10.1
